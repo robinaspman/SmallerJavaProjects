@@ -1,0 +1,1 @@
+Smaller java projects using hashmap, array, inheritance and class.
